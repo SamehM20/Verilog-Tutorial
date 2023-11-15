@@ -1,6 +1,6 @@
 `timescale 1ns/1ps
 // Choosing the testbench name to be test_1
-module test_1;
+module test_1_directed;
   reg InA, InB; // Declaring the test inputs.
   wire OutQ;    // Declaring the observed output.
 
